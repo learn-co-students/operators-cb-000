@@ -1,5 +1,11 @@
 def unsafe?(speed)
-	speed>60||speed<40
+	if speed>60||speed<40
+		true
+	else
+		false
+	end
+	#exact same result as just speed>60||speed<40
+	#Ehy do you make me write useless if staments
 end
 
 
