@@ -5,7 +5,7 @@ def unsafe?(speed)
 		false
 	end
 	#exact same result as just speed>60||speed<40
-	#Ehy do you make me write useless if staments
+	#Why do you make me write useless if staments
 end
 
 
